@@ -13,7 +13,7 @@
                 </a>
                 <div>
                     <div class="main-item__title">
-                        <a href="https://github.com/Natalia-Khusnutdinova/PBI-1"><span>Проект 1</span></a>
+                        <a href="https://github.com/Natalia-Khusnutdinova/PBI-3"><span>Проект 1</span></a>
                     </div>
                     <div class="main-item__description">
                         <p>Этот проект — мой бриллиант. Я очень горжусь работой, которую я там проделал.
