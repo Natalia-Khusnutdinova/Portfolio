@@ -10,8 +10,6 @@
             </div>
             <h2 class="content__subheader">Проекты</h2>
             <div class="content__main-item project">
-                <a data-fslightbox href="/assets/img/project.png">
-                    <img src="/assets/img/project.png" alt="project1">
                 </a>
                 <div>
                     <div class="main-item__title">
