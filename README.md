@@ -88,5 +88,17 @@
                         <p>Мой первый опыт создания дашборда в YandexDataLens. <br/>
                           https://datalens.yandex.cloud/19d5oe3hspq6p-dashbord-po-prodazham Это ссылка на сам дашборд в облаке.<br/> Я разработала дашборд с показателями объёма и динамики продаж в книжных магазинах. <br/>Дашборд предназначен для ответа на конкретные вопросы Заказчика. </p>
                     </div>
+                    </div>
+            <h2 class="content__subheader">Аналитический отчёт </h2>
+            <div class="content__main-item project">
+                </a>
+                <div>
+                    <div class="main-item__title">
+                        <a href="https://github.com/Natalia-Khusnutdinova/ANALYTICS-1"><span>Проект 10</span></a>
+                    </div>
+                    <div class="main-item__description">
+                        <p>Мой первый опыт создания дашборда в YandexDataLens. <br/>
+                          https://datalens.yandex.cloud/19d5oe3hspq6p-dashbord-po-prodazham Это ссылка на сам дашборд в облаке.<br/> Я разработала дашборд с показателями объёма и динамики продаж в книжных магазинах. <br/>Дашборд предназначен для ответа на конкретные вопросы Заказчика. </p>
+                    </div>
 </body> 
 </html>
